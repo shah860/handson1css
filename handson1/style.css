@@ -1,0 +1,53 @@
+h1{
+    color:red;
+    font-size: 50px;
+  
+}
+
+h2{
+    color:red;
+}
+
+ol{
+    color:brown;
+}
+.con{
+    line-height: 50px;
+}
+.It{
+    text-decoration: line-through;
+}
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#demo{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h3{
+    color: red;
+    font-style: italic;
+}
+
+.con2{
+    letter-spacing:5px;
+}
+.ha{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+p{
+    color:brown;
+}
+
+
+a{
+    text-decoration: none;
+    color:red;
+    background-color: yellow;
+    font-style: italic;
+}
